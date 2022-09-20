@@ -1,0 +1,13 @@
+body {
+ 
+    background: rgb(20, 69, 80);
+}
+
+body canvas {
+    
+    padding-top: 90px;
+
+    width: 320px;
+    height: 480px;
+    border: 2px solid #ff;
+}
